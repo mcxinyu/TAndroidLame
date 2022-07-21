@@ -29,6 +29,8 @@ android {
             path '../androidlame/src/main/jni/Android.mk'
         }
     }
+
+    ndkVersion "22.1.7171670"
 }
 
 
